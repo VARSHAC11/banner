@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0D1117;
+}
+
+:root{
+    --light--blue: #22ACBA;
+    --yellow: #FEC211;
+    --dark--blue: #2F5670;
+    --grey--text: #807e7e;
+}
+
+.light-blue-text{
+    color: var(--light--blue);
+}
+
+.yellow-text{
+    color: var(--yellow);
+}
+
+.dark-blue-text{
+    color: var(--dark--blue);
+}
+
+.grey-text{
+    color: var(--grey--text);
+}
+
+.grey-bg{
+    background-color: #F2F2F2;
+    width: 900px;
+    padding: 20px;
+}
+
+/* .first-title{
+    text-align: center;
+} */
+
+.grey-para{
+    color: var(--grey--text);
+    font-weight: bolder;
+    text-align: center;
+    font-size: 16.5px;
+}
+
+.text-on-blue{
+    background-color: #10bdd4;
+    width: 450px;
+    text-align: center;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
+
+.second-title{
+    color: var(--dark--blue);
+}
+
+.beside-icecream{
+    color: rgb(0, 176, 196);
+    font-weight: bolder;
+    line-height: 18px;
+}
+
+.ice-cream{
+    width: 150px;
+    margin-top: 50px;
+}
+
+.fries{
+    width: 122px;
+}
+
+.donut{
+    width: 130px;
+}
+
+.juice{
+    width: 100px;
+    height: 120px;
+}
+
+.nearly{
+    color: var(--dark--blue);
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.text-500{
+    color: var(--yellow);
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.suffer{
+    color: var(--light--blue);
+    font-weight: bolder;
+    line-height: 17px;
+    font-size: 14px;
+}
+
+.beside-combo{
+    line-height: 30px;
+}
+
+.combo-items{
+    width: 310px;
+}
+
+.people{
+    color: var(--yellow);
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.people-percent{
+    color: var(--dark--blue);
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.common-people-class{
+    line-height: 30px;
+}
+
+.divider{
+    border-right: 3px dashed grey;
+}
+
+.text-on-blue-right{
+    background-color: #10bdd4;
+    width: 370px;
+    text-align: center;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 10px;
+}
+
+.he-text{
+    color: var(--light--blue);
+    font-weight: bolder;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.text-percent{
+    color: var(--yellow);
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.grains{
+    width: 100px;
+}
+
+.fandg{
+    width: 130px;
+}
+
+.mandfp{
+    width: 130px;
+    height: 80px;
+}
+
+.mandcp{
+    width: 100px;
+    height: 85px;
+}
+
+.stats-title{
+    color: var(--dark--blue);
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.stats{
+    color: var(--yellow);
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.stats-desc{
+    color: var(--light--blue);
+    font-weight: bolder;
+}
+
+.right-side-icons-text{
+    width: 100px !important;
+}
